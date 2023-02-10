@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "VividSCC"
+logo = ""
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "vividscc"
+  image = "img/blowfish_logo.png"
+  headline = "Vivid Skin Rejuvination"
+  bio = "Day Spa in Briar Cliff Manor."
+  links = [
+    { email = "mailto:vividscc@gmail.com" }
+  ]

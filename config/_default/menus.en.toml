@@ -1,0 +1,106 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 20
+
+[[main]]
+  name = "Membership"
+  pageRef = "membership"
+  weight = 30
+
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 40
+
+[[main]]
+  name = "Suggestions"
+  pageRef = "suggestions"
+  weight = 50
+
+[[main]]
+  name = "Team"
+  pageRef = "team"
+  weight = 60
+#[[main]]
+#  name = "Recipes"
+#  parent = "Examples"
+#  pageRef = "guides"
+#  weight = 10
+
+#[[main]]
+#  name = "Samples"
+#  parent = "Examples"
+#  pageRef = "samples"
+#  weight = 20
+
+#[[main]]
+#  name = "Showcase"
+#  parent = "Examples"
+#  pageRef = "examples"
+#  weight = 30
+
+#[[main]]
+#  name = "Users"
+#  pageRef = "users"
+#  weight = 40
+
+#[[main]]
+#  name = "Merch"
+#  url = "http://tee.pub/lic/qwSlWVBL5zc"
+#  weight = 50
+
+#[[main]]
+#  name = "Test"
+#  pageRef = "pagTest"
+#  weight = 1000
+
+#[[main]]
+#  identifier = "twitter"
+#  pre = "twitter"
+#  url = "https://twitter.com/burufugu"
+#  weight = 60
+
+[[main]]
+  identifier = "mailto"
+  pre = "email"
+  url = "mailto:vividscc@gmail.com"
+  weight = 70
+
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/nunocoracao/blowfish"
+#  weight = 80
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Authors"
+#   pageRef = "authors"
+#   weight = 20
