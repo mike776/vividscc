@@ -5,6 +5,8 @@ description: "Vivid Skin Rejuvenation."
 
 ---
 
+
+
 <img src="/images/vividfront.jpg">
 # Vivid Skin Rejuvenation!
 
