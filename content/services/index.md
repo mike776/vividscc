@@ -6,7 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 
 
-# Services
+
 
 ## _Deluxe Vivid Facial_
 The luxurious facial follows the same process as our VIVID facial, starts with 15 min stress reduction back massage. The aesthetician will concentrates on a visible condition of the skin, offering a renewed, firmer and refined appearance
