@@ -8,7 +8,6 @@ description: "Vivid Skin Rejuvenation."
 
 
 <img src="/images/vividfront.jpg">
-# Vivid Skin Rejuvenation!
 
 ## Welcome to VIVID Skin Rejuvenation
 Our award-winning spa services include relaxing body massage, healing deep tissue/sports massage, anti-aging facials & skin care, body waxing. Take a look at our full list of award-winning day spa services, or view our brochure of services (including full description of services.
