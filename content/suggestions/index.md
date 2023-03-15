@@ -37,5 +37,5 @@ Visible results: up to 64% less wrinkles*. Skin is visibly younger.
 
 
 # What the experts say
-## Anti-aging focus: Yon- Ka answers all your questions and showcases its products
+## Anti-aging focus: Yon-Ka answers all your questions and showcases its products
  Aging of the skin is closely related to each person's lifestyle. To stay young, YON-KA offers a double solution for every aging concern, providing a perfect synergy between home care products and salon treatments.
