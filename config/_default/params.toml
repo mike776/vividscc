@@ -7,7 +7,7 @@
 
 colorScheme = "princess" #valid options blowfish,avocado,fire,forest,princess,neon,terminal,marvel,noir,autumn,congo,slate
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
