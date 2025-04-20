@@ -13,7 +13,6 @@ description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 
 dateFormat = "2 January 2006"
 
-[params]
   name = "vividscc  ---  Address: 549 North State Road, Briarcliff Manor, New York 10510"
   image = "img/blowfish_logo.png"
   headline = "Vivid Skin Rejuvination"
