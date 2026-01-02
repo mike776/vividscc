@@ -39,6 +39,12 @@
   name = "Team"
   pageRef = "team"
   weight = 60
+
+  [[footer]]
+  name = "522 North State Road, Second Floor, Briarcliff Manor, New York 10510"
+  url = "https://maps.google.com/?q=522 North State Road, Briarcliff Manor, New York 10510"
+  weight = 10
+
 #[[main]]
 #  name = "Recipes"
 #  parent = "Examples"
